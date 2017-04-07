@@ -9,7 +9,7 @@ body {
 }
 
 .course {
-  background: #F5F5F5;
+  background: #F5F500;
   border-radius: 5px;
   border: 1px solid #ccc;
   box-shadow: 1px 1px 5px #EAEAEA;
